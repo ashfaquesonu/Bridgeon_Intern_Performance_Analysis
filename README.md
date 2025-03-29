@@ -7,9 +7,9 @@
     <title>Views</title>
 </head>
 <body>
-    <img src="home.png" alt="Home Page" width="700" height="100%">
-    <img src="PerformanceView.png" alt="Overall Performance View" width="700" height="100%">
-    <img src="StudentsView.png" alt="Students View" width="700" height="100%">
+    <img src="home.png" alt="Home Page">
+    <img src="PerformanceView.png" alt="Overall Performance View">
+    <img src="StudentsView.png" alt="Students View">
 
 </body>
 </html>
